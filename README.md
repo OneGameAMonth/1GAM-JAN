@@ -1,4 +1,3 @@
-FlixelBoilerplate
-=================
+# FlixelBoilerplate
 
-A Flixel boilerplate.
+This is a [flixel](http://flixel.org).
