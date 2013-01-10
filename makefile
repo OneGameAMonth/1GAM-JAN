@@ -4,7 +4,7 @@
 MXMLC = /tmp/flex/bin/mxmlc
 SRC = src/*
 MAIN = src/Main.as
-SWF = flixelbp.swf
+SWF = 1GAMJAN.swf
 
 $(SWF): $(SRC)
 	$(MXMLC) -o $(SWF) $(MAIN)
